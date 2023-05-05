@@ -3,9 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Passwords for playing games -
-# Rhombus game : akshaygame1
-# Special Matrix : varandeepgame4
-# Rotating Circle : ankitbhaiyagame3
+### Rhombus game : akshaygame1
+### Special Matrix : varandeepgame4
+### Rotating Circle : ankitbhaiyagame3
 
 ## Available Scripts
 
