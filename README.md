@@ -9,10 +9,12 @@ Developed and designed 3 mathematical and technical games for an event hosted by
 ### Special Matrix : varandeepgame4
 ### Rotating Circle : ankitbhaiyagame3
 
-## Available Scripts
+![Screenshot from 2023-05-05 22-16-19](https://user-images.githubusercontent.com/76240587/236519840-0cfb89d6-f147-44e7-908f-f9c247133709.png)
 
-In the project directory, you can ![Screenshot from 2023-05-05 22-16-19](https://user-images.githubusercontent.com/76240587/236518525-f2934b7d-460e-4e19-ae4f-3825606d15e3.png)![Uploading Screenshot from 2023-05![Screenshot from 2023-05-05 22-17-37](https://user-images.githubusercontent.com/76240587/236518618-666347a7-aafd-4e94-bf2e-8e0cf502ffa3.png)
--05 22-17-13.png…]()
+![Screenshot from 2023-05-05 22-17-13](https://user-images.githubusercontent.com/76240587/236519883-6bfee764-d5d6-4576-a403-1949fdd40db5.png)
+
+![Screenshot from 2023-05-05 22-17-37](https://user-images.githubusercontent.com/76240587/236519904-b66fe82d-c285-4ad9-8a67-147000d886f5.png)
+
 
 run:
 
