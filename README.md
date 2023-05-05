@@ -11,7 +11,10 @@ Developed and designed 3 mathematical and technical games for an event hosted by
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can ![Screenshot from 2023-05-05 22-16-19](https://user-images.githubusercontent.com/76240587/236518525-f2934b7d-460e-4e19-ae4f-3825606d15e3.png)![Uploading Screenshot from 2023-05![Screenshot from 2023-05-05 22-17-37](https://user-images.githubusercontent.com/76240587/236518618-666347a7-aafd-4e94-bf2e-8e0cf502ffa3.png)
+-05 22-17-13.png…]()
+
+run:
 
 ### `npm start`
 
